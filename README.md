@@ -10,6 +10,8 @@ The microservices architecture will deploy a Kubernetes cluster with a mongodb s
 Here are the screenshot of the app:
 <img width="643" alt="image" src="https://user-images.githubusercontent.com/81800774/232813429-2c63b27b-8fcb-4751-93fc-a67cababf8dc.png">
 
-<img width="794" alt="image" src="https://user-images.githubusercontent.com/81800774/232813749-3029eef9-3baa-47bc-809b-f494936f5e67.png">
+
+
+   <img width="794" alt="image" src="https://user-images.githubusercontent.com/81800774/232813749-3029eef9-3baa-47bc-809b-f494936f5e67.png">
 
 
